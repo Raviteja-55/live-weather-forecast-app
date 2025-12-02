@@ -1,19 +1,56 @@
-# live-weather-forecast-app
-A mobile responsive weather forecast web application using HTML, CSS, and JavaScript. Fetches real-time weather data from OpenWeatherMap API.
+🌦️ Live Weather Forecast App
+A simple and beautiful web application to check live weather conditions and a 5-day forecast for any city in the world using the OpenWeather API.
 
-1) Features :
-   
-* Real-time weather data
-* Search by city name
-* Mobile responsive layout
-* Clean and modern UI
+🚀 Features :
 
-2)  Technologies Used :
+🔍 Search weather by city name
 
-* HTML5
-* CSS3
-* JavaScript (ES6)
-* OpenWeatherMap API
+📍 Get weather using your current location
+
+🌡️ Shows temperature, humidity, wind speed, and description
+
+📅 5-Day weather forecast
+
+🌗 Celsius / Fahrenheit toggle
+
+🎯 Clean UI with responsive design
+
+⚠️ Error handling for wrong cities / no internet
+
+⚡ Fast API calls
+
+
+
+🛠️ Tech Stack :
+
+HTML / CSS / JavaScript 
+
+OpenWeatherMap API
+
+
+📂 Project Structure  :
+
+/live-weather-forecast
+│── index.html
+│── style.css
+│── script.js
+│── assets/
+│── README.md
+
+
+🧪 How to Use :
+
+Enter a city name
+
+Click Search
+
+View live weather details
+
+Scroll for 5-day forecast
+
+Switch °C ↔ °F
+
+
 
 // And Finally What I Learned Through this project 
 
